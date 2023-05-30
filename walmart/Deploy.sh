@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-update
-=======
-updating now
->>>>>>> development
+updaetd this line
 this file coantins the deployment logic
