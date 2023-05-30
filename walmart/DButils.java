@@ -1,2 +1,2 @@
 Hello evryone
-todsy im larning Git cmdds
+todsy im larning Git cmds
