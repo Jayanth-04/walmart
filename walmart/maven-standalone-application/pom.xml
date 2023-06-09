@@ -20,7 +20,7 @@
         <properties>
                 <sonar.host.url>http://3.111.32.215:9000/</sonar.host.url>
  <sonar.login>squ_43da5bbf8ff5803a54e1238ef20c0df4288c0db5</sonar.login>
-                <!--    <sonar.password>devops</sonar.password> -->
+           
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <maven.compiler.source>11</maven.compiler.source>
                 <maven.compiler.target>11</maven.compiler.target>
